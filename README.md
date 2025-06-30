@@ -16,7 +16,7 @@ Você deve desenvolver um robô em Python capaz de:
 
 2. A automação deve:
    - Abrir o navegador
-   - Acessar a URL: <a href="https://www.w3schools.com/html/html_forms.asp" target="_blank">https://www.w3schools.com/html/html_forms.asp</a>
+   - Acessar a URL: https://www.w3schools.com/html/html_forms.asp
    - Preencher os dados
    - Submeter o formulário
    - Registrar o sucesso ou erro da operação em um arquivo de log (`logs/rpa.log`)
@@ -28,7 +28,7 @@ Você deve desenvolver um robô em Python capaz de:
 - Utilizar Python
 - Separação de responsabilidades em módulos diferentes
 - Utilização de log
-- Estrutura de projeto rganizada
+- Estrutura de projeto organizada
 - README explicativo
 
 ---
