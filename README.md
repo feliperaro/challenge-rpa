@@ -33,9 +33,10 @@ Você deve desenvolver um robô em Python capaz de:
 
 ---
 
-## 💡 Bônus (opcional)
+## 💡 Bônus
 
 - Dockerfile funcional para rodar o projeto em container
+- Manipulação de dados SQL
 - Interface web simples com Flask para exibir dados
 - Captura de screenshot após cada submissão
 - Arquivo `.env` para configurar URL e caminhos
