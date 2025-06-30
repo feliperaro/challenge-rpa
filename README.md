@@ -28,7 +28,7 @@ Você deve desenvolver um robô em Python capaz de:
 - Utilizar Python
 - Separação de responsabilidades em módulos diferentes
 - Utilização de log
-- Estrutura de projeto rganizada
+- Estrutura de projeto organizada
 - README explicativo
 
 ---
